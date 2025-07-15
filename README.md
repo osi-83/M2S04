@@ -39,5 +39,30 @@ src/ <br>
 ```bash
 git clone https://github.com/SEU_USUARIO/SistemaBiblioteca.git
 cd SistemaBiblioteca
+```
+2. Abra com sua IDE Java preferida.
+
+3. Execute o arquivo Main.java.
+
+---
+
+📌 Exemplos de uso
+---
+Cadastrar livro com título e autor
+
+- Emprestar livro pelo ISBN
+
+- Gerar relatório de livros emprestados e disponíveis
+
+- Buscar livros por autor
+
+---
+📃 Licença
+Este projeto está sob a licença MIT - sinta-se livre para utilizar, estudar e modificar.
+---
+
+🙋‍♂️ Autor
+---
+- Desenvolvido por Osiel Fernandes
 
 ---
